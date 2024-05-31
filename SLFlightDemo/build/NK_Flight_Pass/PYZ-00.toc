@@ -1,4 +1,4 @@
-('E:\\pyProject\\SLFlightDemo\\build\\NK_Flight_Pass\\PYZ-00.pyz',
+('E:\\pyProject\\pyproject\\SLFlightDemo\\build\\NK_Flight_Pass\\PYZ-00.pyz',
  [('DataRecorder',
    'E:\\pyProject\\SLFlightDemo\\.venv\\lib\\site-packages\\DataRecorder\\__init__.py',
    'PYMODULE'),

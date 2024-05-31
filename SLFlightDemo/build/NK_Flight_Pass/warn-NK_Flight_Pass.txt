@@ -15,8 +15,8 @@ IMPORTANT: Do NOT post this list to the issue-tracker. Use it as a basis for
             tracking down the missing module yourself. Thanks!
 
 missing module named pyimod02_importers - imported by E:\pyProject\SLFlightDemo\.venv\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth_pkgutil.py (delayed), E:\pyProject\SLFlightDemo\.venv\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth_pkgres.py (delayed)
-missing module named pwd - imported by posixpath (delayed, conditional), subprocess (delayed, conditional, optional), shutil (delayed, optional), tarfile (optional), pathlib (delayed, optional), http.server (delayed, optional), webbrowser (delayed), psutil (optional), netrc (delayed, conditional), getpass (delayed)
-missing module named grp - imported by subprocess (delayed, conditional, optional), shutil (delayed, optional), tarfile (optional), pathlib (delayed, optional)
+missing module named pwd - imported by posixpath (delayed, conditional), shutil (delayed, optional), tarfile (optional), pathlib (delayed, optional), subprocess (delayed, conditional, optional), http.server (delayed, optional), webbrowser (delayed), psutil (optional), netrc (delayed, conditional), getpass (delayed)
+missing module named grp - imported by shutil (delayed, optional), tarfile (optional), pathlib (delayed, optional), subprocess (delayed, conditional, optional)
 missing module named _posixsubprocess - imported by subprocess (optional), multiprocessing.util (delayed)
 missing module named fcntl - imported by subprocess (optional), psutil._compat (delayed, optional), xmlrpc.server (optional), filelock._unix (conditional, optional)
 missing module named 'org.python' - imported by copy (optional), xml.sax (delayed, conditional)
@@ -25,7 +25,7 @@ missing module named typing_extensions - imported by PIL._typing (conditional, o
 missing module named urllib.urlopen - imported by urllib (delayed, optional), lxml.html (delayed, optional)
 missing module named urllib.urlencode - imported by urllib (delayed, optional), lxml.html (delayed, optional)
 missing module named _manylinux - imported by pkg_resources._vendor.packaging._manylinux (delayed, optional), packaging._manylinux (delayed, optional)
-missing module named posix - imported by os (conditional, optional), shutil (conditional), importlib._bootstrap_external (conditional)
+missing module named posix - imported by shutil (conditional), importlib._bootstrap_external (conditional), os (conditional, optional)
 missing module named resource - imported by posix (top-level)
 missing module named jnius - imported by pkg_resources._vendor.platformdirs.android (delayed, optional), platformdirs.android (delayed, conditional, optional)
 missing module named android - imported by platformdirs.android (delayed, conditional, optional)
